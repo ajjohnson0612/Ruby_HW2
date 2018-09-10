@@ -1,0 +1,47 @@
+STRING Tests :
+
+    Palindrome tests:
+        The first 3 tests of this file it is being used to make sure that all the different input 
+        cases are acconted for including what the instructions were labeled, meaning that the 
+        method should ignore the punctuation and capitalization in a word.
+
+    Word Count Tests:
+        Most of the tests for the word count deal with ignoring white space leading or embedded into the 
+        input. While making sure instructions were followed on how the proplem should be solved using a 
+        hash.
+
+    Anagram Grouping Tests:
+        The anagram grouping tests where the first ones that I ran into an issue with 
+        the test not matching my output, to fix this i changed the test to check if the array that is 
+        returned has everything that is needed. Whithout worrying about if its in the correct space or not
+        
+DESSERT tests :
+
+    Dessert test :
+        These tests were checking to see if the class Dessert was created and initialized correctly 
+        checking to see if the method Delicious? was implemented and if the method tasty was implemented 
+        
+        The jelly bean tests made sure that the jelly bean class was a child of the Dessert class
+        and made sure that the Jelly bean was named correctly and that you could access its variables 
+        while making sure licorice is always terrible
+
+Rock Paper Scissors testing(it was hell) :
+
+    The tests for rock paper scissors are very scriaght forward, there were tests to make sure
+    that the logic statements and what beats what was correct in the method. After that it got a 
+    little more complicated, I did my functions slightly different and needed to eddit most of the 
+    tests to pass in the correct number of parameters to my functions while still testing to see if the 
+    recursion worked properly and if a simple game winner could be found
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
